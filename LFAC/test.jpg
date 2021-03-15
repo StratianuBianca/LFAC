@@ -1,0 +1,71 @@
+string A;
+create Alex
+{
+    int alex;
+};
+create Bianca
+{
+    int bia;
+    int a;
+    
+};
+int merge[10]=@2+3 , 7-3@ ;
+float faceva(int cpo, float bllf){ 
+    int altccv=12;
+    constanta int const=5;
+    int val;
+    return 2.5+3.1;
+
+}
+int y(){
+    int mmm;
+    return 4+5;
+}
+
+A='mama';
+
+
+int main(){
+    
+    
+    int a;
+    char b;
+    float c;
+    string d;
+    d=A;
+    create Alex valoare;
+    valoare.alex =5;
+    int merge[10]=@2+3 , 7-3@ ;
+    int siastamerge[20] ;
+    create Bianca biaa;
+    biaa.bia = 100;
+
+    int f;
+    f=6+10;
+    int y=20;
+    int h=2;
+    int ok=5;
+    int u=1;
+    while(h<y){
+        h=h+ok;
+        h=h+u;
+    }
+    if(adevarat & adevarat){
+        int wz;
+        f=30;
+    }else{
+        f=100;
+    }
+    float gh;
+    gh=5.8 + 5.6 ;
+
+    A=concatenare('alex','e tare');
+
+
+    Eval(4+2+y());
+
+
+
+
+    
+}
